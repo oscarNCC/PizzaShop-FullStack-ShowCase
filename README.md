@@ -1,6 +1,6 @@
 # PizzaShop Analytics System
 
-![OpenTable Thumbnail](PizzaShop-BackEnd/git_pic/opentable.png)
+![OpenTable Thumbnail](git_pic/opentable.png)
 
 A full-stack restaurant management system for operations statistics, ordering, and point-of-sale.
 
@@ -28,10 +28,10 @@ Built with **React 19**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Turbo
 ### 📸 Application Previews
 
 **Client Ordering Interface**
-![Client Web](PizzaShop-FrontEnd/git_pic/client-web.png)
+![Client Web](git_pic/client-web.png)
 
 **Pizza Customization**
-![Pizza Options](PizzaShop-FrontEnd/git_pic/client-web-pizza_option.png)
+![Pizza Options](git_pic/client-web-pizza_option.png)
 
 ### Backend (`PizzaShop-BackEnd`)
 
