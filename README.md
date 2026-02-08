@@ -1,4 +1,6 @@
-# OpenTable / PizzaShop System
+# PizzaShop Analytics System
+
+![OpenTable Thumbnail](PizzaShop-BackEnd/git_pic/opentable.png)
 
 A full-stack restaurant management system for operations statistics, ordering, and point-of-sale.
 
@@ -22,6 +24,14 @@ Built with **React 19**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Turbo
 | **client-web** | `apps/client-web` | - | **Customer Interface**. Allows customers to browse the menu, customize items (e.g., pizza toppings), and place orders. |
 | **pos-web** | `apps/pos-web` | - | **Point of Sale (Staff)**. For staff to view incoming orders, update status, and manage table service. |
 | **admin-web** | `apps/admin-web` | - | **Management Dashboard**. For owners to view analytics (revenue, turnover), manage menus, tables, and users. |
+
+### 📸 Application Previews
+
+**Client Ordering Interface**
+![Client Web](PizzaShop-FrontEnd/git_pic/client-web.png)
+
+**Pizza Customization**
+![Pizza Options](PizzaShop-FrontEnd/git_pic/client-web-pizza_option.png)
 
 ### Backend (`PizzaShop-BackEnd`)
 
