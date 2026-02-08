@@ -26,6 +26,11 @@ Built with **React 19**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Turbo
 | **admin-web** | `apps/admin-web` | - | **Management Dashboard**. For owners to view analytics (revenue, turnover), manage menus, tables, and users. |
 
 ### 📸 Application Previews
+**Client Ordering Interface**
+![Client Web](git_pic/client-web.png)
+
+**Pizza Customization**
+![Pizza Options](git_pic/client-web-pizza_option.png)
 
 **Admin Dashboard**
 ![Admin Dashboard](git_pic/admin-dashboard.png)
@@ -36,11 +41,6 @@ Built with **React 19**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Turbo
 **POS Order Details**
 ![POS Order Details](git_pic/opentable-pos-orderdetails.png)
 
-**Client Ordering Interface**
-![Client Web](git_pic/client-web.png)
-
-**Pizza Customization**
-![Pizza Options](git_pic/client-web-pizza_option.png)
 
 ### Backend (`PizzaShop-BackEnd`)
 
