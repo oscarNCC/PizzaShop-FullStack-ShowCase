@@ -27,6 +27,15 @@ Built with **React 19**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Turbo
 
 ### 📸 Application Previews
 
+**Admin Dashboard**
+![Admin Dashboard](git_pic/admin-dashboard.png)
+
+**POS Interface**
+![POS Interface](git_pic/opentable-pos.png)
+
+**POS Order Details**
+![POS Order Details](git_pic/opentable-pos-orderdetails.png)
+
 **Client Ordering Interface**
 ![Client Web](git_pic/client-web.png)
 
